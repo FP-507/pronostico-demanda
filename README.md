@@ -50,3 +50,7 @@ resultados/  métricas del backtest, pronóstico de 13 semanas y plan de pedidos
 graficos/    gráficos generados
 tests/       pytest
 ```
+
+## Para retomar el proyecto
+
+Arquitectura, decisiones técnicas, cómo extenderlo y pendientes: [DESARROLLO.md](DESARROLLO.md).
